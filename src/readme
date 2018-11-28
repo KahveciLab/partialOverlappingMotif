@@ -1,0 +1,18 @@
+a) Make sure you have installed the libararies: boost and armadillo
+
+b) How to run our program?
+1. make
+2. ./motif para1 para2
+
+para1: number of nodes in the test network
+para2: path of test network
+
+e.g. ./motif 200 ER/200/1
+
+c) network format: sourceNode \tab destNode \tab capacity
+
+
+
+
+
+
